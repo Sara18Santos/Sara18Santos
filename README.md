@@ -1,8 +1,5 @@
-## 👋 Olá! Sou a Sara Santos
- - tenho 21 anos
- - gosto de ler
- - gosto de jogar ténis e futsal
-
+### 👋 Olá! Sou a Sara Santos
+---
 ## 👩‍🎓 Formação Académica
 
 🎓 Terminei a **Licenciatura em Gestão de Sistemas de Informação**, no **IPS**, em **2024**.  
