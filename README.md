@@ -34,7 +34,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sara18Santos&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Sara18Santos&hide=jupyter%20notebook,kotlin&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Sara18Santos&hide=jupyter%20notebook,kotlin&layout=compact&theme=synthwave)
 
 
 
