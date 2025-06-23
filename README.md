@@ -40,5 +40,8 @@
 
 ---
 
-## 📫 Contactos (em breve!)
+## 📫 Contactos:
+- telemóvel: 936452639
+- email: sataide.santos@gmail.com
+- linkedin: 
 
