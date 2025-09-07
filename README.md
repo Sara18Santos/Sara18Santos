@@ -3,7 +3,7 @@
 ## 👩‍🎓 Formação Académica
 
 🎓 Terminei a **Licenciatura em Gestão de Sistemas de Informação**, no **IPS**, em **2024**.  
-💻 Estou no **1º ano do Mestrado em Engenharia Informática**, no **ISCTE**.
+💻 Estou no **2º ano do Mestrado em Engenharia Informática**, no **ISCTE**.
 
 ## 💡 Sobre mim
 
@@ -43,5 +43,6 @@
 ## 📫 Contactos:
 - telemóvel: 936452639
 - email: sataide.santos@gmail.com
-- linkedin: 
+- linkedin: https://www.linkedin.com/in/sara-ataíde-santos-34933a224
+  
 
