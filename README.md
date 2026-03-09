@@ -32,11 +32,10 @@
 
 ## 📈 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sara18Santos&theme=radical)
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Sara18Santos&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Sara18Santos&show_icons=true&theme=radical&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Sara18Santos&hide=jupyter%20notebook,kotlin&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Sara18Santos&hide=jupyter%20notebook,kotlin&layout=compact&theme=synthwave)
 
 
 
